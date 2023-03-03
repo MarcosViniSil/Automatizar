@@ -13,6 +13,8 @@
 #6-digitar esportes*
 
 #7-pesquisar esportes
+
+#Foi utilizada para uma ação simples,porem mostra muitas possibilidades
 import pyautogui
 from time import sleep
 
