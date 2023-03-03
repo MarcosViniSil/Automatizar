@@ -12,7 +12,7 @@
 
 #6-digitar esportes*
 
-#7-pesquisar esportes*
+#7-pesquisar esportes
 import pyautogui
 from time import sleep
 
